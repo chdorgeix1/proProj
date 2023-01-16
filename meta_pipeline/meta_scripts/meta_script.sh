@@ -15,5 +15,3 @@ mkdir @TOKEN@
 mkdir /sciclone/scr10/chdorgeix/metalign_output_sens/test/@TOKEN@
 
 metalign.py /sciclone/data10/chdorgeix/Christian/cat_leaf_files/@TOKEN@.fastq.gz /sciclone/data10/jrpuzey/Metalign/data/ --temp_dir @TOKEN@-temp --sensitive --length_normalize --output /sciclone/scr10/chdorgeix/leaf_output/@TOKEN@   >& OUT.@TOKEN@
-
-
