@@ -1,5 +1,7 @@
 These folders contain projects related to my research both in processing of raw data as well as analysis of cleaned data.
 
+![Alt Image text](/professionalProjects/species_microbe_analysis/poster_presentation.jpg?raw=true "Optional Title")
+
 meta_pipeline contains shell scripts that I have edited and produced with the help of Luke Denoncourt, Ron Smith, Josh Puzey, and Eric Walters at the College of William & Mary. These scripts are utilized on the WM HPC to turn unpaired raw fastq files into TSV files. These fastq files were produced using metagenomics sequencing and contain genetic data from microbes in the soil and endophytes from plants. Preliminary analyses can be seen in the species_microbe_analysis folder.
 
 In the meta_pipeline folder a photo "alignment_pipeline.png" exists visually describing the organization of the pipeline and where each script fits into the pipeline. paired_end_scripts within the meta_pipeline folder contains shell scripts written to turn unpaired fastq files into paired end fastq.gz files. meta_scripts within the meta_pipeline folder contains shell scripts written to turn these fastq.gz files into TSV output files containing information on the relative abundance of microbes within plant and soil samples.
