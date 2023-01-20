@@ -1,4 +1,10 @@
-These folders contain projects related to my research both in processing of raw data as well as analysis of cleaned data.
+# Christian D'Orgeix Professional Projects
+## This repository contains projects I have worked on for personal and research purposes including data processing, analysis, and visualization.
+## The projects currently contained in this repository include:
+## - Decision Tree Model with Shuffle Split Cross Validation Classifier to Predict Plant Species Using Soil Microbiome Data
+## - High-Performance Computing Metagenomic Alignment Pipeline
+
+#These folders contain projects related to my research both in processing of raw data as well as analysis of cleaned data.
 
 ![Alt Image text](/species_microbe_analysis/poster_presentation.jpg?raw=true "Optional Title")
 
