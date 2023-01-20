@@ -4,7 +4,7 @@
 
 - Decision Tree Model with Shuffle Split Cross Validation Classifier to Predict Plant Species Using Soil Microbiome Data
 
-![Alt Image text](/species_microbe_analysis/poster_presentation.jpg?raw=true "Optional Title")
+![Alt Image text](/species_microbe_analysis/poster_presentation.png?raw=true "Optional Title")
 
 - High-Performance Computing Metagenomic Alignment Pipeline
 
